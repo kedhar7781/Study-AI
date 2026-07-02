@@ -1,0 +1,41 @@
+# Node.js
+node_modules/
+dist/
+dist-ssr/
+*.local
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+.venv/
+pip-log.txt
+pip-delete-this-directory.txt
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Databases
+*.db
+*.sqlite3
+instance/
+local_db.json
+
+# Environment variables
+.env
+.env.production
+.env.development
+.env.local
+
+# IDEs
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.swp
